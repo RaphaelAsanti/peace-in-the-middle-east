@@ -3,7 +3,7 @@ This repository contains a stand‑alone excerpt from the ebook The End of Time 
 
 Included File
 
-[The Peace Plan for the Middle East (PDF)](The-Peace-Plan-for-the-Middle-East.pdf) — a formatted excerpt from the ebook.
+[The Peace Plan for the Middle East (PDF)](the-peace-plan-for-the-middle-east.pdf) — a formatted excerpt from the ebook.
 
 Source  
 This PDF is an excerpt from the full ebook The End of Time.
