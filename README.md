@@ -1,5 +1,10 @@
 The Simple Solution to Peace in the Middle East  
 This repository contains a stand‑alone excerpt from the ebook The End of Time by Raphael. The excerpt presents a clear, text‑based approach to understanding how mistranslations and narrative assumptions shape conflict in the Middle East.
+## Web Version
+
+View the full index page here:
+
+https://raphaelasanti.github.io/peace-in-the-middle-east/index.html
 
 Included File
 
