@@ -19,3 +19,7 @@ License
 This excerpt is released under the Creative Commons Attribution‑NoDerivatives 4.0 International License (CC BY‑ND 4.0).
 You may share the PDF freely with proper attribution.
 No modifications or derivative versions may be distributed.
+
+---
+
+Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).
