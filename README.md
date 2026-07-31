@@ -22,4 +22,10 @@ No modifications or derivative versions may be distributed.
 
 ---
 
-Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).
+## Author
+
+Raphael E. Asanti  
+July 2026
+
+Main index: https://raphaelasanti.github.io/
+
