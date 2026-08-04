@@ -10,7 +10,7 @@ index.html — Primary page (HTML)
 https://raphaelasanti.github.io/peace-in-the-middle-east/
 
 ### eBook Excerpt PDF
-https://github.com/RaphaelAsanti/peace-in-the-middle-east/blob/main/peace-in-the-middle-east.pdf
+https://github.com/RaphaelAsanti/peace-in-the-middle-east/blob/main/the-peace-plan-for-the-middle-east.pdf
 
 ### License
 https://github.com/RaphaelAsanti/peace-in-the-middle-east/blob/main/LICENSE
