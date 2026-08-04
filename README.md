@@ -1,31 +1,50 @@
-The Simple Solution to Peace in the Middle East  
-This repository contains a stand‑alone excerpt from the ebook The End of Time by Raphael. The excerpt presents a clear, text‑based approach to understanding how mistranslations and narrative assumptions shape conflict in the Middle East.
-## Web Version
+# The Simple Solution to Peace in the Middle East
 
-View the full index page here:
-
-https://raphaelasanti.github.io/peace-in-the-middle-east/index.html
-
-Included File
-
-[The Peace Plan for the Middle East (PDF)](the-peace-plan-for-the-middle-east.pdf) — a formatted excerpt from the ebook.
-
-Source  
-This PDF is an excerpt from the full ebook The End of Time.
-The complete book is available at:
-https://raphaelasanti.github.io/the-end-of-time/
-
-License  
-This excerpt is released under the Creative Commons Attribution‑NoDerivatives 4.0 International License (CC BY‑ND 4.0).
-You may share the PDF freely with proper attribution.
-No modifications or derivative versions may be distributed.
+A concise structural overview of the prescribed framework for achieving a durable peace in the Middle East.  
+This page outlines the structural principles, territorial logic, and stability‑based mechanisms that define the proposed solution.
 
 ---
 
-## Author
+### Files
+index.html — Primary page (HTML)  
+https://raphaelasanti.github.io/peace-in-the-middle-east/
 
+### eBook Excerpt PDF
+https://github.com/RaphaelAsanti/peace-in-the-middle-east/blob/main/peace-in-the-middle-east.pdf
+
+### License
+https://github.com/RaphaelAsanti/peace-in-the-middle-east/blob/main/LICENSE
+
+---
+
+### Author
 Raphael E. Asanti  
 July 2026
 
-Main index: https://raphaelasanti.github.io/
+---
 
+### Related Pages
+Main Index  
+https://raphaelasanti.github.io/
+
+---
+
+### Donate
+This work is sustained entirely by voluntary contributions.
+
+**Cash App**  
+https://cash.app/$phirunltd
+
+**Gumroad (optional donation when downloading)**  
+https://phirun4.gumroad.com/l/zsmzjh
+
+---
+### Contribute
+Share the public page on your social media to extend its reach:  
+https://raphaelasanti.github.io/peace-in-the-middle-east/
+
+---
+
+### Free Ebook
+If you prefer not to donate, the same ebook is available here:  
+https://github.com/raphaelasanti/the-end-of-time/
